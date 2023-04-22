@@ -24,7 +24,7 @@ The idea is for the safety and benefit of the entire human race to collaborate k
 
 We want this to be a database that the public can find out the research that is being done on cyberware so that they may collaborate, and document safely together.
 
-Neither Sabrenetics or the author Sumeet Singh doesn’t encourage any unsafe illegal research projects. Always refer to your local governments laws on each research project.
+The author Sumeet Singh doesn’t encourage any unsafe, unregulated, unqualified research projects. Always refer to your local governments laws on each research project.
 
 You are able to freely contribute to this codebase as you wish as long as you acknowledge the changes you make aren't affiliated with is of your own opinion.
 
