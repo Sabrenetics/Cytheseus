@@ -1,4 +1,4 @@
-# Open source research project - Cyberware-Part-Picker
+# Biomedical Engineering open source research and software project - Cyberware-Part-Picker
 
 
 Author: Sumeet Singh
