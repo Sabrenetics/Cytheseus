@@ -1,7 +1,5 @@
 # Open source research project - Cyberware-Part-Picker
 
-Version: 1.0 (non publicly accessible)
-
 
 Author: Sumeet Singh
 
@@ -11,7 +9,7 @@ Author contact: kurta.kursi@gmail.com
 
 Author website: www.sumeet-singh.com
 
-License: TBD
+License: GNU General Public License v3 (GPL-3)
 
 
 # Background
@@ -47,7 +45,7 @@ You are then able to choose different parts of the bodies such as limbs by click
 
 A toggle can appear for both sources with a disclaimer for each. The idea is to showcase the available cyberware you can wear as wearable technology that are legal in a safe and controlled format. Any suggesstions to add or remove products are user discretion provided they are of your own opinion and not related to the author.
 
-The source of products come from Open source community cyberware projects e.g. clicking on legs leads to Pegleg (https://hackaday.com/2019/08/29/pegleg-raspberry-pi-implanted-below-the-skin-not-coming-to-a-store-near-you/), clicking on chest or head leads to OpenBCI ECG/EEG kit.
+The source of products come from Open source community cyberware projects e.g. clicking on legs leads to Pegleg (https://hackaday.com/2019/08/29/pegleg-raspberry-pi-implanted-below-the-skin-not-coming-to-a-store-near-you/), clicking on chest or head leads to OpenBCI ECG/EEG kit. However you can even use this for your own private or commercial works considering legality.
 
 
 
