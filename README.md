@@ -35,11 +35,11 @@ You can contact the author for support anytime.
 
 # Project
 
-The software is written using the Python programming language (https://www.python.org/)
+The software code base was originally written using the Python programming language.
 
-the software is hosted on www.github.com
+the origin of software code base is hosted here https://github.com/SumeetSinghJi/Cyberware-part-picker
 
-This web acessible application will display an graphical interface of an humanoid that you can design to look like yourself, including any disabilities such as being wheelchair bound, gender, skin colour, etc., 
+This originally to be a publically website acessible application that will display an graphical interface of an humanoid that you can design to look like yourself, including any disabilities such as being wheelchair bound, gender, skin colour, etc., 
 
 You are then able to choose different parts of the bodies such as limbs by clicking on them and a list of available cyberware wearable technology products are available.
 
