@@ -14,7 +14,7 @@ License: GNU General Public License v3 (GPL-3)
 
 # Background
 
-Sabrenetics wants help creating a open source project on tracking down and documenting open source Cyberware projects worldwide of significance.
+I want help creating a open source project on tracking down and documenting open source Cyberware projects worldwide of significance.
 
 Cyberware is technology that attempts to create a working interface between machines/computers and the human nervous system, including the brain. Examples include Prosthetics e.g. prosthetic arms, brain-computer interfaces e.g. EEG headsets, medical instruments such as ECG heart rate readers etc.,
 
