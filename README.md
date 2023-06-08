@@ -13,25 +13,23 @@ License: GNU General Public License v3 (GPL-3)
 
 # Background
 
-This is an Biomedical Engineering open source project.
+This is an Biomedical Engineering open source project. This software allows you to create a 3D human/animal model and select different body parts to show available research in cyberware in that location.
 
 Cyberware is technology that attempts to create a working interface between machines/computers and the human nervous system, including the brain. Examples include Prosthetics e.g. prosthetic arms, brain-computer interfaces e.g. EEG headsets, medical instruments such as ECG heart rate readers etc.,
 
-The idea is for the safety and benefit of the entire human race to collaborate knowledge that often performed in secret by unqualified, unregulated biohackers. This software allows you to create a 3D human/animal model and select different body parts to show available research in cyberware in that location. 
+The idea is for the safety and benefit of the entire human race to collaborate knowledge that often performed in isolated research whether through educational institutes such as univeristies, biomedical firms, international institutes in foreign untranslated languages, hobby biohackers or even business not in the habbit of collaborating research.
 
-We want this to be a database that the public can find out the research that is being done on cyberware so that they may collaborate, and document safely together.  We invite the public to contribute and use for their own personal research, projects and even commerical ventures to advertise and advocate safe cyberware.
+By putting all this research together it creates a single source of truth hosted by Sabrenetics that can be easily regulated by medical boards so that knowledge presented is safe, regulated, and the users or consumers are informed of what they are viewing.
+
+We want this to be a database that the public can find out the research that is being done on cyberware so that they may collaborate, and document safely together.  We invite the public and commerical organisations both to contribute and use for their own personal research, projects and even commerical ventures to advertise and advocate safe cyberware.
 
 The author Sumeet Singh doesn’t encourage any unsafe, unregulated, unqualified research projects. Always refer to your local governments laws on each research project.
+
 You are able to freely contribute to this codebase as you wish as long as you acknowledge the changes you make aren't affiliated with is of your own opinion. You can contact the author for support anytime.
 
-
-# PROJECT
+# USE GUIDE
 
 The software is to be written in C++ and Python for low level and high level abstraction, but can grow to accomodate more languages.
-
-the origin of software code base is hosted here https://github.com/SumeetSinghJi/Cyberware-part-picker
-
-This originally to be a publically website acessible application that will display an graphical interface of an humanoid that you can design to look like yourself, including any disabilities such as being wheelchair bound, gender, skin colour, etc., 
 
 You are then able to choose different parts of the bodies such as limbs by clicking on them and a list of safe curated non advertised devices are discussed, such
 as by clicking on an hand shows options for microchips that could theoretically be implanted. Users can also contribute to the project and add journal articles to the cyberware part picker software to create new enteries for cyberware.
@@ -40,6 +38,8 @@ The greater picture would be for Sabrenetics to host all users different avatars
 that can be stored, shared, modified anytime with Sabrenetics as a governing body providing technical programming support. This ensures your research projects, personal projects, commerical products are always available to you with free support.
 
 Feel free to fork your own copy and modify it for yourself. This can be modified commerically for business to advertise their own legal safe regulated goods as an portfolio advertisment of goods. Any suggesstions to add or remove products are user discretion provided they are of your own opinion and not related to the author.
+
+
 
 # ROADMAP
 
