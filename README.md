@@ -1,4 +1,4 @@
-# CYBORGIZATION (codeword: Parinama)
+# CYBORGIZATION (codeword: Sariram Parinama Sanskrit: Body Transformation)
 
 Author: Sumeet Singh
 
