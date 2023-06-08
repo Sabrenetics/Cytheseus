@@ -24,7 +24,7 @@ cyborgisation  (spelt cyborgization in American English) is a noun, that's linke
 
 # Background
 
-This is an Biomedical Engineering open source project. This software allows you to create a 3D human/animal model and select different body parts to show available research in cyberware in that location.
+This is an Biomedical Engineering open source project. This software allows you to create a 3D humanoid/animal model and select different parts of the body to show available biomedical engineered technologies (products and research) for that location.
 
 Cyberware is technology that attempts to create a working interface between machines/computers and the human nervous system, including the brain. Examples include Prosthetics e.g. prosthetic arms, brain-computer interfaces e.g. EEG headsets, medical instruments such as ECG heart rate readers etc., Cyberware is a term used in science fiction, however the more commonly accepted scientific term is "biomedical engineered technologies". Biomedical Engineers work alongside medical
 practitioners to augment humans by adding, removing or modifying parts of the human body to create hybrid part human part tool organisms known as cyborgs.
@@ -36,6 +36,8 @@ By putting all this research together it creates a single source of truth hosted
 We want this to be a database that the public can find out the research that is being done on cyberware so that they may collaborate, and document safely together.  We invite the public and commerical organisations both to contribute and use for their own personal research, projects and even commerical ventures to advertise and advocate safe cyberware. 
 
 Feel free to fork your own copy and modify it for yourself. This can be modified commerically for business to advertise their own legal safe regulated goods as an portfolio advertisment of goods. Any suggesstions to add or remove products are user discretion provided they are of your own opinion and not related to the author.
+
+You can even fork this repository as a generic body modification software for other scenarios not related to biomedical engineered technologies such as for fashion (observing how clothing and accessories look on a human body), or observing tattoos/piercings, etc.,
 
 The author Sumeet Singh doesn’t encourage any unsafe, unregulated, unqualified research projects. Always refer to your local governments laws on each research project.
 
