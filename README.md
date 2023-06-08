@@ -37,17 +37,49 @@ By putting all this research together it creates a single source of truth hosted
 
 We want this to be a database that the public can find out the research that is being done on cyberware so that they may collaborate, and document safely together.  We invite the public and commerical organisations both to contribute and use for their own personal research, projects and even commerical ventures to advertise and advocate safe cyberware. The author doesn’t encourage any unsafe, unregulated, unqualified research projects. Always refer to your local governments laws on each research project.
 
+You are able to choose different parts of the bodies such as limbs by clicking on them and a list of safe curated non advertised devices are discussed, such
+as by clicking on an hand shows options for microchips that could theoretically be implanted. Users can also contribute to the project and add journal articles to the cyberware part picker software to create new enteries for cyberware.
+
+The greater picture would be for Sabrenetics to host all users different avatars (the physical character models of users) in Sabrenetics.com to be kept in a central location that can be stored, shared, modified anytime with Sabrenetics as a governing body providing technical programming support. This ensures your research projects, personal projects, commerical products are always available to you with free support.
+
 Feel free to fork your own copy and modify it for yourself. This can be modified commerically for business to advertise their own legal safe regulated goods as an portfolio advertisment of goods. You can use this as a generic body modification software for other scenarios not related to biomedical engineered technologies such as for fashion (observing how clothing and accessories look on a human body), or observing tattoos/piercings, etc., Any suggesstions to add or remove products are user discretion provided they are of your own opinion and not related to the author.
 
 
 # USE GUIDE
 
-The software is to be written in C++ and Python for multiplatforming and low level abstraction, but can grow to accomodate more languages e.g. JS being a web app.
 
-You are then able to choose different parts of the bodies such as limbs by clicking on them and a list of safe curated non advertised devices are discussed, such
-as by clicking on an hand shows options for microchips that could theoretically be implanted. Users can also contribute to the project and add journal articles to the cyberware part picker software to create new enteries for cyberware.
 
-The greater picture would be for Sabrenetics to host all users different avatars (the physical character models of users) in Sabrenetics.com to be kept in a central location that can be stored, shared, modified anytime with Sabrenetics as a governing body providing technical programming support. This ensures your research projects, personal projects, commerical products are always available to you with free support.
+
+Based on your requirements, you can build a web application using a combination of Python and JavaScript. Here's a suggested tech stack for each component of your application:
+
+Backend: Python
+
+Flask: A lightweight web framework for Python that allows you to handle HTTP requests and build APIs.
+NumPy: A library for handling numerical operations, useful for geometric transformations.
+Three.js: A JavaScript library for rendering 3D graphics in the browser. You can use it to display and manipulate the 3D models.
+Frontend: JavaScript
+
+Three.js: As mentioned above, this library will handle the rendering and manipulation of 3D models in the browser.
+React.js: A popular JavaScript library for building user interfaces. You can use it to create dynamic and interactive components of your application.
+Redux: A state management library that can help you manage the state of your application, especially when dealing with multiple models on the field.
+External APIs:
+
+For integrating with external websites, you can use standard web technologies like HTML and JavaScript to create clickable links that redirect users to the desired websites.
+Importing and grouping of meshes and textures:
+
+You can use server-side file handling in Python to manage the uploaded files and store them in specific folders.
+On the frontend, you can use JavaScript to load the meshes and textures and group them as needed using Three.js.
+Export/Share options:
+
+You can provide export options using Three.js's built-in export functionalities to export the modified models in different formats such as GLB or OBJ.
+Sharing options can be implemented using standard web technologies like sharing links or generating unique URLs for each model.
+Photo modeling:
+
+For converting a photo into a 3D model, you may need additional libraries or services specifically designed for this purpose. You can explore options like using machine learning models or utilizing photogrammetry techniques.
+API development:
+
+Flask can be used to create APIs to expose the functionality of your application as web services that can be integrated with third-party applications.
+
 
 
 # DATA SAFETY
@@ -82,5 +114,8 @@ Hardlocks
 * Multiple models on field - Can add muliple models to field.
 * API's - We aim to create API's to make the cyberware avatar avaialble for integrating with third party applications and use cases.
 * Cyber load - The theoertical aspects of calculating the projectory to transhumanism, and leaving humanity, how much the cyberware augmented to model effects body function. This will scale in from human to transhuman. With color ranges showing research articles of various effects documented on the human body.
+
+
+
 
 
