@@ -75,10 +75,11 @@ Hardlocks
 
 # ROADMAP
 
+* Transform the model with geometric options e.g. adding verticies, increasing proportions, etc., - TBA 
 * Allow linking of external websites to various parts of body - TBA
-* Allow users to upload their own textures/meshes - TBA
-* Export/Share options - TBD
 * Adding Meshs of non humanoids e.g. Pet's (dogs) - TBD
+* Allow users to upload their own textures/meshes - TBA
+* Export/Share options - TBA
 * Photo modelling - Software accepts a photo of yourself, picture or model and converts into the software and converts to a model.
 * API's - We aim to create API's to make the cyberware avatar avaialble for integrating with third party applications and use cases.
 * Cyber load - The theoertical aspects of calculating the projectory to transhumanism, and leaving humanity, how much the cyberware augmented to model effects body function. This will scale in from human to transhuman. With color ranges showing research articles of various effects documented on the human body.
