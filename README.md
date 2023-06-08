@@ -21,11 +21,14 @@ The idea is for the safety and benefit of the entire human race to collaborate k
 
 By putting all this research together it creates a single source of truth hosted by Sabrenetics that can be easily regulated by medical boards so that knowledge presented is safe, regulated, and the users or consumers are informed of what they are viewing.
 
-We want this to be a database that the public can find out the research that is being done on cyberware so that they may collaborate, and document safely together.  We invite the public and commerical organisations both to contribute and use for their own personal research, projects and even commerical ventures to advertise and advocate safe cyberware.
+We want this to be a database that the public can find out the research that is being done on cyberware so that they may collaborate, and document safely together.  We invite the public and commerical organisations both to contribute and use for their own personal research, projects and even commerical ventures to advertise and advocate safe cyberware. 
+
+Consider this the Wikipedia of Cyberware knowledge where a organisation Sabrenetics manages the central knowledge store and acts as unbiassed as possible to ensure that every researcher and research is given equal opportunity through being educated on digital journalism, to contribute to, and that their works are protected unless directly challenged. This prevents a edit war scenario in which multiple entities modify documentation at will, without consulting others. Safeguards will be put in place by Sabrenetics with softlocks (digital journalism tutorial, max posts allowed, fact checking journals before submission, warnings, timeouts, etc.,, hardlocks (bans etc.,).
+
+Feel free to fork your own copy and modify it for yourself. This can be modified commerically for business to advertise their own legal safe regulated goods as an portfolio advertisment of goods. Any suggesstions to add or remove products are user discretion provided they are of your own opinion and not related to the author.
 
 The author Sumeet Singh doesn’t encourage any unsafe, unregulated, unqualified research projects. Always refer to your local governments laws on each research project.
 
-You are able to freely contribute to this codebase as you wish as long as you acknowledge the changes you make aren't affiliated with is of your own opinion. You can contact the author for support anytime.
 
 # USE GUIDE
 
@@ -34,10 +37,9 @@ The software is to be written in C++ and Python for low level and high level abs
 You are then able to choose different parts of the bodies such as limbs by clicking on them and a list of safe curated non advertised devices are discussed, such
 as by clicking on an hand shows options for microchips that could theoretically be implanted. Users can also contribute to the project and add journal articles to the cyberware part picker software to create new enteries for cyberware.
 
-The greater picture would be for Sabrenetics to host all users different avatars (the physical character models of users) in Sabrenetics.com to be kept in a central location
-that can be stored, shared, modified anytime with Sabrenetics as a governing body providing technical programming support. This ensures your research projects, personal projects, commerical products are always available to you with free support.
+The greater picture would be for Sabrenetics to host all users different avatars (the physical character models of users) in Sabrenetics.com to be kept in a central location that can be stored, shared, modified anytime with Sabrenetics as a governing body providing technical programming support. This ensures your research projects, personal projects, commerical products are always available to you with free support.
 
-Feel free to fork your own copy and modify it for yourself. This can be modified commerically for business to advertise their own legal safe regulated goods as an portfolio advertisment of goods. Any suggesstions to add or remove products are user discretion provided they are of your own opinion and not related to the author.
+
 
 
 
