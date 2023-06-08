@@ -11,13 +11,25 @@ Author website: www.sumeet-singh.com
 License: GNU General Public License v3 (GPL-3)
 
 
+# What is Cyborgization?
+
+According to references collaborated in "The Oxford Dictionary of Science Fiction" ISBN: 9780195305678
+
+cyborgisation  (spelt cyborgization in American English) is a noun, that's linked to the word "cyborging: the process or act of making someone into a cyborg.".
+
+* 1994 B. Stableford Les Fleurs du Mal Asimov's SF (Oct.) 125 He was playing about with brainfeed equipment […]. Not just memory boxes or neural stimulators, but mental cyborgization.
+* 1996 D. Pringle, et al. Ultimate Ency. of SF 41/2 Stories dealing with the cyborgization of humans for the purpose of exploring other worlds include Arthur C. Clarke's “A Meeting With Medusa.”
+* 2001 A. Reynolds Chasm City 48 The Chimerics in general had taken cyborgisation to new extremes, blending themselves and their animals with machines.
+
+
 # Background
 
 This is an Biomedical Engineering open source project. This software allows you to create a 3D human/animal model and select different body parts to show available research in cyberware in that location.
 
-Cyberware is technology that attempts to create a working interface between machines/computers and the human nervous system, including the brain. Examples include Prosthetics e.g. prosthetic arms, brain-computer interfaces e.g. EEG headsets, medical instruments such as ECG heart rate readers etc.,
+Cyberware is technology that attempts to create a working interface between machines/computers and the human nervous system, including the brain. Examples include Prosthetics e.g. prosthetic arms, brain-computer interfaces e.g. EEG headsets, medical instruments such as ECG heart rate readers etc., Cyberware is a term used in science fiction, however the more commonly accepted scientific term is "biomedical engineered technologies". Biomedical Engineers work alongside medical
+practitioners to augment humans by adding, removing or modifying parts of the human body to create hybrid part human part tool organisms known as cyborgs.
 
-The idea is for the safety and benefit of the entire human race to collaborate knowledge that often performed in isolated research whether through educational institutes such as univeristies, biomedical firms, international institutes in foreign untranslated languages, hobby biohackers or even business not in the habbit of collaborating research.
+The idea is for the safety and benefit of the entire human race to collaborate knowledge related to cyberware, that hasn't been consolidated in an unbiassed, open source, safe manner before, that often is performed in isolated research whether through educational institutes such as univeristies, biomedical firms, international institutes in foreign untranslated languages, hobby biohackers or even business not in the habbit of collaborating research.
 
 By putting all this research together it creates a single source of truth hosted by Sabrenetics that can be easily regulated by medical boards so that knowledge presented is safe, regulated, and the users or consumers are informed of what they are viewing.
 
