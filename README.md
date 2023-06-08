@@ -47,21 +47,37 @@ Feel free to fork your own copy and modify it for yourself. This can be modified
 
 # USE GUIDE
 
-The software is a web application built a combination of Python and JavaScript with the below tech stack for each component:
+The requirements of the app are below. An web application either on python or js that can a user can pick or upload different glb 3d model files. From there they can choose to add textures. The main programs purpose is that users can select individual parts of the 3d human body model and then an popup will open showing the available clothing accessories that can be purchased for that body part. E.g. if the body part selected from the 3d female glb file is the hand, then different website popups for buying rings will appear.
+
 
 1. Backend: Python
 * Flask: A lightweight web framework for Python that allows you to handle HTTP requests and build APIs.
 * NumPy: A library for handling numerical operations, useful for geometric transformations.
 * Three.js: A JavaScript library for rendering 3D graphics in the browser. You can use it to display and manipulate the 3D models.
+*   Install Python and Flask to set up the backend.
+*   Install Node.js and a package manager like npm or Yarn to set up the frontend.
+*   Create a new Flask project and set up a basic Flask application.
+*   Define the necessary routes for handling HTTP requests.
+*   Implement an API endpoint that accepts file uploads.
+*   Use a Python library like PyGLTF to handle GLB files and perform necessary operations like loading and manipulating the 3D models.
 2. Frontend: JavaScript
 * Three.js: As mentioned above, this library will handle the rendering and manipulation of 3D models in the browser.
 * React.js: A popular JavaScript library for building user interfaces. You can use it to create dynamic and interactive components of your application.
 * Redux: A state management library that can help you manage the state of your application, especially when dealing with multiple models on the field.
+*   Set up a React.js project using Create React App or a similar tool.
+*   Create necessary components for displaying and interacting with the 3D models.
+*   Use the Three.js library to handle rendering and manipulation of the 3D models in the browser.
+*   Implement functionality for users to pick or upload GLB files and display them in the browser.
 3. External APIs:
 * For integrating with external websites, you can use standard web technologies like HTML and JavaScript to create clickable links that redirect users to the desired websites.
 4. Importing and grouping of meshes and textures:
 * You can use server-side file handling in Python to manage the uploaded files and store them in specific folders.
 * On the frontend, you can use JavaScript to load the meshes and textures and group them as needed using Three.js.
+*   Add a file upload component in the frontend to allow users to upload GLB files.
+*   Implement the necessary logic in the backend to handle the file upload, store the files in a specific folder, and return the file path or identifier to the frontend.
+*   Implement a texture mapping feature using Three.js to allow users to add textures to the 3D models.
+*   Create a UI element in the frontend where users can select textures and apply them to different parts of the model.
+*   Implement the necessary logic in the backend to handle texture mapping operations and apply textures to the 3D models.
 5. Export/Share options:
 * You can provide export options using Three.js's built-in export functionalities to export the modified models in different formats such as GLB or OBJ.
 * Sharing options can be implemented using standard web technologies like sharing links or generating unique URLs for each model.
