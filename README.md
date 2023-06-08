@@ -12,6 +12,7 @@ Author website: www.sumeet-singh.com
 License: GNU General Public License v3 (GPL-3)
 
 
+
 # Background
 
 I want help creating a open source project on tracking down and documenting open source Cyberware projects worldwide of significance.
@@ -41,11 +42,9 @@ the origin of software code base is hosted here https://github.com/SumeetSinghJi
 
 This originally to be a publically website acessible application that will display an graphical interface of an humanoid that you can design to look like yourself, including any disabilities such as being wheelchair bound, gender, skin colour, etc., 
 
-You are then able to choose different parts of the bodies such as limbs by clicking on them and a list of available cyberware wearable technology products are available.
+You are then able to choose different parts of the bodies such as limbs by clicking on them and a list of safe curated non advertised devices are discussed, such
+as by clicking on an hand shows options for microchips that could theoretically be implanted. Users can also contribute to the project and add journal articles to the cyberware part picker software to create new enteries for cyberware.
 
-A toggle can appear for both sources with a disclaimer for each. The idea is to showcase the available cyberware you can wear as wearable technology that are legal in a safe and controlled format. Any suggesstions to add or remove products are user discretion provided they are of your own opinion and not related to the author.
-
-The source of products come from Open source community cyberware projects e.g. clicking on legs leads to Pegleg (https://hackaday.com/2019/08/29/pegleg-raspberry-pi-implanted-below-the-skin-not-coming-to-a-store-near-you/), clicking on chest or head leads to OpenBCI ECG/EEG kit. However you can even use this for your own private or commercial works considering legality.
-
+This can be modified commerically for business to advertise their own legal safe regulated goods as an portfolio advertisment of goods. Any suggesstions to add or remove products are user discretion provided they are of your own opinion and not related to the author.
 
 
