@@ -33,13 +33,9 @@ The idea is for the safety and benefit of the entire human race to collaborate k
 
 By putting all this research together it creates a single source of truth hosted by Sabrenetics that can be easily regulated by medical boards so that knowledge presented is safe, regulated, and the users or consumers are informed of what they are viewing.
 
-We want this to be a database that the public can find out the research that is being done on cyberware so that they may collaborate, and document safely together.  We invite the public and commerical organisations both to contribute and use for their own personal research, projects and even commerical ventures to advertise and advocate safe cyberware. 
+We want this to be a database that the public can find out the research that is being done on cyberware so that they may collaborate, and document safely together.  We invite the public and commerical organisations both to contribute and use for their own personal research, projects and even commerical ventures to advertise and advocate safe cyberware. The author doesn’t encourage any unsafe, unregulated, unqualified research projects. Always refer to your local governments laws on each research project.
 
-Feel free to fork your own copy and modify it for yourself. This can be modified commerically for business to advertise their own legal safe regulated goods as an portfolio advertisment of goods. Any suggesstions to add or remove products are user discretion provided they are of your own opinion and not related to the author.
-
-You can even fork this repository as a generic body modification software for other scenarios not related to biomedical engineered technologies such as for fashion (observing how clothing and accessories look on a human body), or observing tattoos/piercings, etc.,
-
-The author Sumeet Singh doesn’t encourage any unsafe, unregulated, unqualified research projects. Always refer to your local governments laws on each research project.
+Feel free to fork your own copy and modify it for yourself. This can be modified commerically for business to advertise their own legal safe regulated goods as an portfolio advertisment of goods. You can use this as a generic body modification software for other scenarios not related to biomedical engineered technologies such as for fashion (observing how clothing and accessories look on a human body), or observing tattoos/piercings, etc., Any suggesstions to add or remove products are user discretion provided they are of your own opinion and not related to the author.
 
 
 # USE GUIDE
