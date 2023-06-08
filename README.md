@@ -23,8 +23,6 @@ By putting all this research together it creates a single source of truth hosted
 
 We want this to be a database that the public can find out the research that is being done on cyberware so that they may collaborate, and document safely together.  We invite the public and commerical organisations both to contribute and use for their own personal research, projects and even commerical ventures to advertise and advocate safe cyberware. 
 
-Consider this the Wikipedia of Cyberware knowledge where a organisation Sabrenetics manages the central knowledge store and acts as unbiassed as possible to ensure that every researcher and research is given equal opportunity through being educated on digital journalism, to contribute to, and that their works are protected unless directly challenged. This prevents a edit war scenario in which multiple entities modify documentation at will, without consulting others. Safeguards will be put in place by Sabrenetics with softlocks (digital journalism tutorial, max posts allowed, fact checking journals before submission, warnings, timeouts, etc.,, hardlocks (bans etc.,).
-
 Feel free to fork your own copy and modify it for yourself. This can be modified commerically for business to advertise their own legal safe regulated goods as an portfolio advertisment of goods. Any suggesstions to add or remove products are user discretion provided they are of your own opinion and not related to the author.
 
 The author Sumeet Singh doesn’t encourage any unsafe, unregulated, unqualified research projects. Always refer to your local governments laws on each research project.
@@ -40,6 +38,24 @@ as by clicking on an hand shows options for microchips that could theoretically 
 The greater picture would be for Sabrenetics to host all users different avatars (the physical character models of users) in Sabrenetics.com to be kept in a central location that can be stored, shared, modified anytime with Sabrenetics as a governing body providing technical programming support. This ensures your research projects, personal projects, commerical products are always available to you with free support.
 
 
+# DATA SAFETY
+
+Consider this the Wikipedia of Cyberware knowledge where a organisation Sabrenetics manages the central knowledge store and acts as unbiassed as possible to ensure that every researcher and research is given equal opportunity through being educated on digital journalism, to contribute to, and that their works are protected unless directly challenged. This prevents a edit war scenario in which multiple entities modify documentation at will, without consulting others.
+
+Terms and conditions come from the source location the main repository of CYBORGISATION will be held which is on Sabrenetics.com. 
+Safeguards will be put in place by Sabrenetics such as;
+
+Softlocks
+* User account registration with verified email, regulated with anti bot protection systems e.g. capture
+* digital journalism tutorial for newcomers
+* max posts allowed per day timeouts
+* fact checking journals before submission, 
+* warnings with educational resources for discipline 
+* etc., 
+
+Hardlocks
+* Banning users who break terms and conditions such as conducing illicit use of site
+* etc.,
 
 
 
