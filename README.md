@@ -76,9 +76,9 @@ Hardlocks
 # ROADMAP
 
 * Transform the model with geometric options e.g. adding verticies, increasing proportions, etc., - TBA 
-* Allow linking of external websites to various parts of body - TBA
 * Adding Meshs of non humanoids e.g. Pet's (dogs) - TBD
-* Allow users to upload their own textures/meshes - TBA
+* Allow importing and grouping of meshs and textures from specific folders - TBA
+* Allow linking of external websites to various parts of body - TBA
 * Export/Share options - TBA
 * Photo modelling - Software accepts a photo of yourself, picture or model and converts into the software and converts to a model.
 * API's - We aim to create API's to make the cyberware avatar avaialble for integrating with third party applications and use cases.
