@@ -1,9 +1,13 @@
 # CYBORGIZATION
 
 Author: Sumeet Singh
+
 Created: 6th April 2023
+
 Author contact: kurta.kursi@gmail.com
+
 Author website: www.sumeet-singh.com
+
 License: GNU General Public License v3 (GPL-3)
 
 
