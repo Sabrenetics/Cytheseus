@@ -1,5 +1,6 @@
 # CYBORGIZATION
-(Sanskrit: Śarīram-Pariṇāma (शरीरम्-परिणाम) English literal translation: Body-Transformation. Meaning: Cyborgisation)
+
+Sanskrit: Śarīram-Pariṇāma (शरीरम्-परिणाम) English literal translation: Body-Transformation. Meaning: Cyborgisation
 
 Author: Sumeet Singh
 
