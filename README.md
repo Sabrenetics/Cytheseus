@@ -45,6 +45,11 @@ This originally to be a publically website acessible application that will displ
 You are then able to choose different parts of the bodies such as limbs by clicking on them and a list of safe curated non advertised devices are discussed, such
 as by clicking on an hand shows options for microchips that could theoretically be implanted. Users can also contribute to the project and add journal articles to the cyberware part picker software to create new enteries for cyberware.
 
-This can be modified commerically for business to advertise their own legal safe regulated goods as an portfolio advertisment of goods. Any suggesstions to add or remove products are user discretion provided they are of your own opinion and not related to the author.
+The greater picture would be for Sabrenetics to host all users different avatars (the physical character models of users) in Sabrenetics.com to be kept in a central location
+that can be stored, shared, modified anytime with Sabrenetics as a governing body providing technical programming support. This ensures your research projects, personal projects, commerical products are always available to you with free support.
+
+We aim to create API's to make the cyberware avatar avaialble for integrating with third party applications and use cases.
+
+Feel free to fork your own copy and modify it for yourself. This can be modified commerically for business to advertise their own legal safe regulated goods as an portfolio advertisment of goods. Any suggesstions to add or remove products are user discretion provided they are of your own opinion and not related to the author.
 
 
