@@ -1,4 +1,4 @@
-# CYBORGIZATION
+# CYBORGIZATION (codeword: Parinama)
 
 Author: Sumeet Singh
 
