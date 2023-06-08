@@ -1,4 +1,4 @@
-# CYBORGIZATION (codeword: शरीरम् (śarīram) Pariṇāma (परिणाम) Sanskrit: Body Transformation)
+# CYBORGIZATION (codeword: Śarīram Pariṇāma (शरीरम् परिणाम) Sanskrit: Body Transformation)
 
 Author: Sumeet Singh
 
