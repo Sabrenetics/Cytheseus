@@ -41,7 +41,7 @@ Feel free to fork your own copy and modify it for yourself. This can be modified
 
 # USE GUIDE
 
-The software is to be written in C++ and Python for low level and high level abstraction, but can grow to accomodate more languages.
+The software is to be written in C++ and Python for multiplatforming and low level abstraction, but can grow to accomodate more languages e.g. JS being a web app.
 
 You are then able to choose different parts of the bodies such as limbs by clicking on them and a list of safe curated non advertised devices are discussed, such
 as by clicking on an hand shows options for microchips that could theoretically be implanted. Users can also contribute to the project and add journal articles to the cyberware part picker software to create new enteries for cyberware.
@@ -78,6 +78,7 @@ Hardlocks
 * Allow linking of external websites to various parts of body - TBA
 * Export/Share options - TBA
 * Photo modelling - Software accepts a photo of yourself, picture or model and converts into the software and converts to a model.
+* Multiple models on field - Can add muliple models to field.
 * API's - We aim to create API's to make the cyberware avatar avaialble for integrating with third party applications and use cases.
 * Cyber load - The theoertical aspects of calculating the projectory to transhumanism, and leaving humanity, how much the cyberware augmented to model effects body function. This will scale in from human to transhuman. With color ranges showing research articles of various effects documented on the human body.
 
