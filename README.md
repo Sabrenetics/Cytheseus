@@ -47,38 +47,28 @@ Feel free to fork your own copy and modify it for yourself. This can be modified
 
 # USE GUIDE
 
-
-
-
 Based on your requirements, you can build a web application using a combination of Python and JavaScript. Here's a suggested tech stack for each component of your application:
 
-Backend: Python
-
-Flask: A lightweight web framework for Python that allows you to handle HTTP requests and build APIs.
-NumPy: A library for handling numerical operations, useful for geometric transformations.
-Three.js: A JavaScript library for rendering 3D graphics in the browser. You can use it to display and manipulate the 3D models.
-Frontend: JavaScript
-
-Three.js: As mentioned above, this library will handle the rendering and manipulation of 3D models in the browser.
-React.js: A popular JavaScript library for building user interfaces. You can use it to create dynamic and interactive components of your application.
-Redux: A state management library that can help you manage the state of your application, especially when dealing with multiple models on the field.
-External APIs:
-
-For integrating with external websites, you can use standard web technologies like HTML and JavaScript to create clickable links that redirect users to the desired websites.
-Importing and grouping of meshes and textures:
-
-You can use server-side file handling in Python to manage the uploaded files and store them in specific folders.
-On the frontend, you can use JavaScript to load the meshes and textures and group them as needed using Three.js.
-Export/Share options:
-
-You can provide export options using Three.js's built-in export functionalities to export the modified models in different formats such as GLB or OBJ.
-Sharing options can be implemented using standard web technologies like sharing links or generating unique URLs for each model.
-Photo modeling:
-
-For converting a photo into a 3D model, you may need additional libraries or services specifically designed for this purpose. You can explore options like using machine learning models or utilizing photogrammetry techniques.
-API development:
-
-Flask can be used to create APIs to expose the functionality of your application as web services that can be integrated with third-party applications.
+1. Backend: Python
+* Flask: A lightweight web framework for Python that allows you to handle HTTP requests and build APIs.
+* NumPy: A library for handling numerical operations, useful for geometric transformations.
+* Three.js: A JavaScript library for rendering 3D graphics in the browser. You can use it to display and manipulate the 3D models.
+2. Frontend: JavaScript
+* Three.js: As mentioned above, this library will handle the rendering and manipulation of 3D models in the browser.
+* React.js: A popular JavaScript library for building user interfaces. You can use it to create dynamic and interactive components of your application.
+* Redux: A state management library that can help you manage the state of your application, especially when dealing with multiple models on the field.
+3. External APIs:
+* For integrating with external websites, you can use standard web technologies like HTML and JavaScript to create clickable links that redirect users to the desired websites.
+4. Importing and grouping of meshes and textures:
+* You can use server-side file handling in Python to manage the uploaded files and store them in specific folders.
+* On the frontend, you can use JavaScript to load the meshes and textures and group them as needed using Three.js.
+5. Export/Share options:
+* You can provide export options using Three.js's built-in export functionalities to export the modified models in different formats such as GLB or OBJ.
+* Sharing options can be implemented using standard web technologies like sharing links or generating unique URLs for each model.
+6. Photo modeling:
+* For converting a photo into a 3D model, you may need additional libraries or services specifically designed for this purpose. You can explore options like using machine learning models or utilizing photogrammetry techniques.
+7. API development:
+* Flask can be used to create APIs to expose the functionality of your application as web services that can be integrated with third-party applications.
 
 
 
