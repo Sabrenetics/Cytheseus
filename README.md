@@ -60,6 +60,7 @@ The requirements of the app are below. An web application either on python or js
 *   Define the necessary routes for handling HTTP requests.
 *   Implement an API endpoint that accepts file uploads.
 *   Use a Python library like PyGLTF to handle GLB files and perform necessary operations like loading and manipulating the 3D models.
+
 2. Frontend: JavaScript
 * Three.js: As mentioned above, this library will handle the rendering and manipulation of 3D models in the browser.
 * React.js: A popular JavaScript library for building user interfaces. You can use it to create dynamic and interactive components of your application.
@@ -68,8 +69,10 @@ The requirements of the app are below. An web application either on python or js
 *   Create necessary components for displaying and interacting with the 3D models.
 *   Use the Three.js library to handle rendering and manipulation of the 3D models in the browser.
 *   Implement functionality for users to pick or upload GLB files and display them in the browser.
+
 3. External APIs:
 * For integrating with external websites, you can use standard web technologies like HTML and JavaScript to create clickable links that redirect users to the desired websites.
+
 4. Importing and grouping of meshes and textures:
 * You can use server-side file handling in Python to manage the uploaded files and store them in specific folders.
 * On the frontend, you can use JavaScript to load the meshes and textures and group them as needed using Three.js.
@@ -78,11 +81,14 @@ The requirements of the app are below. An web application either on python or js
 *   Implement a texture mapping feature using Three.js to allow users to add textures to the 3D models.
 *   Create a UI element in the frontend where users can select textures and apply them to different parts of the model.
 *   Implement the necessary logic in the backend to handle texture mapping operations and apply textures to the 3D models.
+
 5. Export/Share options:
 * You can provide export options using Three.js's built-in export functionalities to export the modified models in different formats such as GLB or OBJ.
 * Sharing options can be implemented using standard web technologies like sharing links or generating unique URLs for each model.
+
 6. Photo modeling:
 * For converting a photo into a 3D model, you may need additional libraries or services specifically designed for this purpose. You can explore options like using machine learning models or utilizing photogrammetry techniques.
+
 7. API development:
 * Flask can be used to create APIs to expose the functionality of your application as web services that can be integrated with third-party applications.
 
