@@ -27,7 +27,7 @@ You are able to freely contribute to this codebase as you wish as long as you ac
 
 # PROJECT
 
-The software code base was originally written using the Python programming language.
+The software is to be written in C++ and Python for low level and high level abstraction, but can grow to accomodate more languages.
 
 the origin of software code base is hosted here https://github.com/SumeetSinghJi/Cyberware-part-picker
 
