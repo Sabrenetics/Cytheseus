@@ -47,7 +47,7 @@ Feel free to fork your own copy and modify it for yourself. This can be modified
 
 # USE GUIDE
 
-Based on your requirements, you can build a web application using a combination of Python and JavaScript. Here's a suggested tech stack for each component of your application:
+The software is a web application built a combination of Python and JavaScript with the below tech stack for each component:
 
 1. Backend: Python
 * Flask: A lightweight web framework for Python that allows you to handle HTTP requests and build APIs.
