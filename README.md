@@ -51,12 +51,12 @@ The requirements of the app are below. An web application either on python or js
 
 
 1. Backend: Python
-* Flask: A lightweight web framework for Python that allows you to handle HTTP requests and build APIs.
+* Django: A lightweight web framework for Python that allows you to handle HTTP requests and build APIs.
 * NumPy: A library for handling numerical operations, useful for geometric transformations.
 * Three.js: A JavaScript library for rendering 3D graphics in the browser. You can use it to display and manipulate the 3D models.
-*   Install Python and Flask to set up the backend.
+*   Install Python and Django to set up the backend.
 *   Install Node.js and a package manager like npm or Yarn to set up the frontend.
-*   Create a new Flask project and set up a basic Flask application.
+*   Create a new Django project and set up a basic Django application.
 *   Define the necessary routes for handling HTTP requests.
 *   Implement an API endpoint that accepts file uploads.
 *   Use a Python library like PyGLTF to handle GLB files and perform necessary operations like loading and manipulating the 3D models.
@@ -90,7 +90,7 @@ The requirements of the app are below. An web application either on python or js
 * For converting a photo into a 3D model, you may need additional libraries or services specifically designed for this purpose. You can explore options like using machine learning models or utilizing photogrammetry techniques.
 
 7. API development:
-* Flask can be used to create APIs to expose the functionality of your application as web services that can be integrated with third-party applications.
+* Django can be used to create APIs to expose the functionality of your application as web services that can be integrated with third-party applications.
 
 
 
