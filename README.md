@@ -72,6 +72,8 @@ The requirements of the app are below. An web application either on python or js
 
 3. External APIs:
 * For integrating with external websites, you can use standard web technologies like HTML and JavaScript to create clickable links that redirect users to the desired websites.
+* Django can be used to create APIs to expose the functionality of your application as web services that can be integrated with third-party applications.
+
 
 4. Importing and grouping of meshes and textures:
 * You can use server-side file handling in Python to manage the uploaded files and store them in specific folders.
@@ -89,9 +91,9 @@ The requirements of the app are below. An web application either on python or js
 6. Photo modeling:
 * For converting a photo into a 3D model, you may need additional libraries or services specifically designed for this purpose. You can explore options like using machine learning models or utilizing photogrammetry techniques.
 
-7. API development:
-* Django can be used to create APIs to expose the functionality of your application as web services that can be integrated with third-party applications.
-
+7. Database
+* A Relational database that holds users saved data.
+* Can use AWS S3 Buckets or AliBaba Cloud
 
 
 # DATA SAFETY
