@@ -2,7 +2,7 @@
 
 Author: Sumeet Singh
 
-Project: AvatarNama
+Project: CyborgMe
 
 Created: 6th April 2023
 
