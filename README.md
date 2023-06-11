@@ -54,26 +54,17 @@ The requirements of the app are below. An web application either on python or js
 * Django: A lightweight web framework for Python that allows you to handle HTTP requests and build APIs.
 * NumPy: A library for handling numerical operations, useful for geometric transformations.
 * Three.js: A JavaScript library for rendering 3D graphics in the browser. You can use it to display and manipulate the 3D models.
-*   Install Python and Django to set up the backend.
-*   Install Node.js and a package manager like npm or Yarn to set up the frontend.
-*   Create a new Django project and set up a basic Django application.
-*   Define the necessary routes for handling HTTP requests.
-*   Implement an API endpoint that accepts file uploads.
-*   Use a Python library like PyGLTF to handle GLB files and perform necessary operations like loading and manipulating the 3D models.
+* PyGLTF to handle GLB files and perform necessary operations like loading and manipulating the 3D models.
 
 2. Frontend: JavaScript
 * Three.js: As mentioned above, this library will handle the rendering and manipulation of 3D models in the browser.
 * React.js: A popular JavaScript library for building user interfaces. You can use it to create dynamic and interactive components of your application.
 * Redux: A state management library that can help you manage the state of your application, especially when dealing with multiple models on the field.
-*   Set up a React.js project using Create React App or a similar tool.
-*   Create necessary components for displaying and interacting with the 3D models.
-*   Use the Three.js library to handle rendering and manipulation of the 3D models in the browser.
 *   Implement functionality for users to pick or upload GLB files and display them in the browser.
 
-3. External APIs:
-* For integrating with external websites, you can use standard web technologies like HTML and JavaScript to create clickable links that redirect users to the desired websites.
-* Django can be used to create APIs to expose the functionality of your application as web services that can be integrated with third-party applications.
-
+3. Database: AWS S3 or AliBaba Cloud
+* A Relational database that holds users saved data.
+* Depending on safety, regulations and jurisdiction of customer data will use a mix of AWS S3 Buckets or AliBaba Cloud
 
 4. Importing and grouping of meshes and textures:
 * You can use server-side file handling in Python to manage the uploaded files and store them in specific folders.
@@ -91,9 +82,10 @@ The requirements of the app are below. An web application either on python or js
 6. Photo modeling:
 * For converting a photo into a 3D model, you may need additional libraries or services specifically designed for this purpose. You can explore options like using machine learning models or utilizing photogrammetry techniques.
 
-7. Database
-* A Relational database that holds users saved data.
-* Can use AWS S3 Buckets or AliBaba Cloud
+7. External APIs:
+* For integrating with external websites, you can use standard web technologies like HTML and JavaScript to create clickable links that redirect users to the desired websites.
+* Implement an API endpoint that accepts file uploads.
+* Django can be used to create APIs to expose the functionality of your application as web services that can be integrated with third-party applications.
 
 
 # DATA SAFETY
