@@ -28,8 +28,6 @@ cyborgisation  (spelt cyborgization in American English) is a noun, that's linke
 * 1996 D. Pringle, et al. Ultimate Ency. of SF 41/2 Stories dealing with the cyborgization of humans for the purpose of exploring other worlds include Arthur C. Clarke's “A Meeting With Medusa.”
 * 2001 A. Reynolds Chasm City 48 The Chimerics in general had taken cyborgisation to new extremes, blending themselves and their animals with machines.
 
-Sanskrit Translation: Śarīram-Pariṇāma (शरीरम्-परिणाम) English literal translation: Body-Transformation. Meaning: Cyborgisation
-
 
 # Background
 
