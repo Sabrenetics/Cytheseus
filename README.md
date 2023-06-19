@@ -116,15 +116,21 @@ Hardlocks
 
 # ROADMAP
 
-* Transform the model with geometric options e.g. adding verticies, increasing proportions, etc., - TBA 
+* Create/Save/Store Avatars - TBA
+* Body dimension proportion manipulation - weight, height - TBA
+* Transform the model with geometric options e.g. adding verticies, limbs etc., - TBA 
 * Adding Meshs of non humanoids e.g. Pet's (dogs) - TBD
 * Allow importing and grouping of meshs and textures from specific folders - TBA
 * Allow linking of external websites to various parts of body - TBA
-* Export/Share options - TBA
+* Exporting 3D model to different formats - TBA
+* Importing 3D model from different formats - TBA
 * Photo modelling - Software accepts a photo of yourself, picture or model and converts into the software and converts to a model.
 * Multiple models on field - Can add muliple models to field.
-* API's - We aim to create API's to make the cyberware avatar avaialble for integrating with third party applications and use cases.
-* Cyber load - The theoertical aspects of calculating the projectory to transhumanism, and leaving humanity, how much the cyberware augmented to model effects body function. This will scale in from human to transhuman. With color ranges showing research articles of various effects documented on the human body.
+* API's - We aim to create API's to make the cyberware avatar avaialble for integrating with third party applications e.g. Social Media, Metaverse, Scientific, Gaming, etc.,
+* CyberTheseus - The theoertical aspects of how much the cyberware augmented to model effects body function. This will scale in from human to transhuman. With color ranges showing research articles of various effects documented on the human body. The various effects of studied polymers, voltage, magnetism on the body. Electrogram simulations increase and decrease based on proportions of implants used. How much humanity departs with more implants. How close you are from Transhumanism.
+
+  
+  
 
 
 
