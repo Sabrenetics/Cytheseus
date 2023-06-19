@@ -2,7 +2,7 @@
 
 Author: Sumeet Singh
 
-Project: CyborgMe
+Project: CyborgMe, CyberTheseus
 
 Created: 6th April 2023
 
