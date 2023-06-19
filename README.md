@@ -2,7 +2,7 @@
 
 Author: Sumeet Singh
 
-Project: CyborgMe, CyberTheseus
+Alternate proposed names: CyborgMe, CyberTheseus
 
 Created: 6th April 2023
 
@@ -13,9 +13,9 @@ Author website: www.sumeet-singh.com
 License: GNU General Public License v3 (GPL-3)
 
 Availability
-* Website: 
-* iOS Store:  
-* Google Play Store:  
+* Website: **TBD**
+* iOS Store: **TBD**
+* Google Play Store: **TBD**
 
 
 # What is Cyborgization?
