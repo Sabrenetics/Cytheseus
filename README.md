@@ -49,6 +49,10 @@ The greater picture would be for Sabrenetics to host all users different avatars
 
 Feel free to fork your own copy and modify it for yourself. This can be modified commerically for business to advertise their own legal safe regulated goods as an portfolio advertisment of goods. You can use this as a generic body modification software for other scenarios not related to biomedical engineered technologies such as for fashion (observing how clothing and accessories look on a human body), or observing tattoos/piercings, etc., Any suggesstions to add or remove products are user discretion provided they are of your own opinion and not related to the author.
 
+# Current alternatives?
+
+Web apps such as ReadyPlayerMe https://readyplayer.me/ have a similar capability to design avatars with cyberpunk fashion, but they lack the biomedical engineering aspect behind this project.
+
 
 # USE GUIDE
 
