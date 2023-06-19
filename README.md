@@ -13,9 +13,11 @@ Author website: www.sumeet-singh.com
 License: GNU General Public License v3 (GPL-3)
 
 Availability
-* Website: **TBD**
-* iOS Store: **TBD**
-* Google Play Store: **TBD**
+* Website:
+* iOS Store:
+* Google Play Store:
+* TenCent app store:
+* Huawei app store: 
 
 
 # What is Cyborgization?
@@ -121,6 +123,10 @@ Hardlocks
 # ROADMAP
 
 * Create/Save/Store Avatars - TBA
+* RGB color palletes - TBA
+* Default textures e.g. skin colours, freckles, hair colours, nails, hair styles, accessories, clothing, prosthetics, neural interfaces, handheld accessories
+* Default meshes e.g. skinny, normal, overweight bodies - TBA
+* Default animations - TBA
 * Body dimension proportion manipulation - weight, height - TBA
 * Transform the model with geometric options e.g. adding verticies, limbs etc., - TBA 
 * Adding Meshs of non humanoids e.g. Pet's (dogs) - TBD
@@ -131,7 +137,7 @@ Hardlocks
 * Photo modelling - Software accepts a photo of yourself, picture or model and converts into the software and converts to a model.
 * Multiple models on field - Can add muliple models to field.
 * API's - We aim to create API's to make the cyberware avatar avaialble for integrating with third party applications e.g. Social Media, Metaverse, Scientific, Gaming, etc.,
-* CyberTheseus - The theoertical aspects of how much the cyberware augmented to model effects body function. This will scale in from human to transhuman. With color ranges showing research articles of various effects documented on the human body. The various effects of studied polymers, voltage, magnetism on the body. Electrogram simulations increase and decrease based on proportions of implants used. How much humanity departs with more implants. How close you are from Transhumanism.
+* CyberTheseus - The theoertical aspects of how much the cyberware augmented to model effects body function. This will scale in from human to transhuman. With color ranges showing research articles of various effects documented on the human body. The various effects of studied polymers, voltage, magnetism on the body. Electrogram simulations increase and decrease based on proportions of implants used. How much humanity departs with more implants. How close you are from Transhumanism. As one metric goes up e.g. more neural prosthetics added to avatar, other metrics will react higher or lower
 
   
   
