@@ -1,8 +1,8 @@
-# CYBORGISATION
+# Theseus
 
 Author: Sumeet Singh
 
-Alternate proposed names: CyborgMe, CyberTheseus
+Alternate proposed names: Cyborgisation, Cyborgization, CyberTheseus, CyborgMe
 
 Created: 6th April 2023
 
