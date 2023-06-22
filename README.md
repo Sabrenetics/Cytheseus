@@ -2,7 +2,7 @@
 
 Author: Sumeet Singh
 
-Alternate proposed names: Cyborgisation, Cyborgization, CyberTheseus, CyborgMe
+Alternate proposed names: Cyborgisation, Cyborgization, Cytheseus, Cybertheseus, CyborgMe
 
 Created: 6th April 2023
 
