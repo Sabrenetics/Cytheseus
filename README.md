@@ -2,7 +2,7 @@
 
 Author: Sumeet Singh
 
-Alternate proposed names: Cyborgisation, Cyborgization, Thesus, Cybertheseus, CyborgMe
+Alternate proposed names: Cyborgisation, Cyborgization, CyborgMe
 
 Created: 6th April 2023
 
@@ -16,6 +16,7 @@ Availability
 * Website:
 * iOS Store:
 * Google Play Store:
+* Samsung Galaxy store: 
 * TenCent app store:
 * Huawei app store: 
 
