@@ -54,7 +54,8 @@ Feel free to fork your own copy and modify it for yourself. This can be modified
 
 # Current alternatives?
 
-Web apps such as ReadyPlayerMe https://readyplayer.me/ have a similar capability to design avatars with cyberpunk fashion, but they lack the biomedical engineering aspect behind this project.
+Web apps such as ReadyPlayerMe https://readyplayer.me/ have a similar capability to design avatars with cyberpunk fashion, but they lack the capability
+to add comments, documents, wiki's, media and statistics about you're cyberware and avatar. There is no clear alternative in the market that exists.
 
 
 # USE GUIDE
