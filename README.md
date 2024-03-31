@@ -10,7 +10,7 @@ Author contact: kurta.kursi@gmail.com
 
 Author website: www.sumeet-singh.com
 
-License: GNU General Public License v3 (GPL-3)
+License: MIT License
 
 Availability
 * Website:
