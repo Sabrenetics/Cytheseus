@@ -35,11 +35,11 @@ As Cyborgization advances, ethical considerations loom large. Questions surround
 In the age of Cytheseus, where Cybernetics meets Theseus, humanity stands at a crossroads of unprecedented potential and profound ethical dilemmas. As we navigate the terrain of Cyborgization, armed with conceptual tools like Cytheseus, we embark on a quest to redefine the essence of humanity amidst the ever-evolving landscape of technology.
 
 ## References
-Stableford, B. (1994). Les Fleurs du Mal. Asimov's SF, 125.
-Pringle, D., et al. (1996). Ultimate Ency. of SF, 41/2.
-Reynolds, A. (2001). Chasm City, 48.
-Marshall, T. C., Garcia, E., & Rathjen, M. M. (2018). Humanizing technologies: converging histories and ethics. Springer.
-Gifford, P. A. (2014). The history and future of cybernetics. ACM SIGCAS Computers and Society, 44(3), 82-93.
+* Stableford, B. (1994). Les Fleurs du Mal. Asimov's SF, 125.
+* Pringle, D., et al. (1996). Ultimate Ency. of SF, 41/2.
+* Reynolds, A. (2001). Chasm City, 48.
+* Marshall, T. C., Garcia, E., & Rathjen, M. M. (2018). Humanizing technologies: converging histories and ethics. Springer.
+* Gifford, P. A. (2014). The history and future of cybernetics. ACM SIGCAS Computers and Society, 44(3), 82-93.
 
 
 
