@@ -1,32 +1,20 @@
-# Cytheseus
+# Cytheseus: A revolutionary Cyborg Health Record system
 
-Author: Sumeet Singh
-Created: 6th April 2023
-License: Propriety due to strict Medical records safety needs
-Availability: Website - TBA
-
-
-# Title: Exploring Cytheseus: A Conceptual Framework for Understanding Cyborgization
+* Author: Sumeet Singh
+* Created: 6th April 2023
+* Availability: cytheseus.com
+* License: Propriety due to strict Medical records safety needs
 
 ## Abstract
 Cytheseus, derived from Cybernetics and Theseus, amalgamates philosophical inquiry with ancient paradoxical musings. While Cybernetics delves into the study of systems encompassing man and machines, Theseus embodies the enigmatic Ship of Theseus, pondering over identity amidst perpetual reconstruction. Cytheseus bridges these domains, pondering the essence of humanity in an era of technologically augmented bodies. This paper introduces the concept of Cytheseus as a metric, quantifying the extent of human augmentation, akin to the Ship of Theseus's planks replaced over time. Through an exploration of Cyborgization, the paper investigates the convergence of organic and artificial components, elucidating its implications in science fiction and real-world innovations.
 
 ## Background
-This open-source project in Biomedical Engineering aims to provide a comprehensive platform for creating 3D humanoid/animal models and exploring biomedical engineered technologies applicable to different parts of the body.
 
-Cyberware, also known as biomedical engineered technologies, encompasses various technologies facilitating interaction between machines/computers and the human nervous system, including prosthetics, brain-computer interfaces, and medical instruments such as ECG heart rate readers. Biomedical Engineers collaborate with medical practitioners to enhance human capabilities by integrating, modifying, or replacing body parts, resulting in hybrid organisms known as cyborgs.
+Cytheseus, envisioned as both a website and an online application, revolutionizes cyborg patient health record systems. Users can create, modify, and track their cyberware/cyborg implants by generating 3D avatar models of themselves and animals. Through Cytheseus, users can add, remove, and modify their avatar with different cyberware/cyborg parts, providing an accurate representation of themselves with metrics on various aspects.
 
-The motivation behind this project is to consolidate knowledge related to cyberware in an unbiased, open-source, and safe manner. Currently, such knowledge is often scattered across isolated research efforts in educational institutes, biomedical firms, and international institutions. By centralizing this research on Sabrenetics, we aim to create a single, regulated source of information accessible to the public and commercial organizations alike.
+Cytheseus serves as a groundbreaking platform for documenting vital health-related information regarding cyberware/cyborg implants. Users can access metrics such as Cytheseus score, electromagnetic interference, potential health problems (e.g., implant rejection rates, cancer rates, implant migration rates, infection rates), and the percentage of humanity they have left or are leaving behind. Additionally, Cytheseus provides information on places to obtain cyberware support, cyborg clinics, and laws applicable to cybernetically enhanced individuals, including travel restrictions and potential legal issues.
 
-Users can explore different body parts and discover safe, curated biomedical engineered technologies. Contributions from users, including journal articles, enrich the database and expand the available options for cyberware.
-
-Ultimately, Sabrenetics envisions hosting users' avatars (physical character models) on Sabrenetics.com, providing a centralized platform for storing, sharing, and modifying avatars. This ensures accessibility to research projects, personal endeavors, and commercial products, supported by Sabrenetics as a governing body.
-
-The project encourages forking and modification for various purposes, including commercial ventures to advertise legal, safe, and regulated goods. It can also serve as a generic body modification software for fashion exploration or other scenarios unrelated to biomedical engineered technologies.
-
-Cytheseus: Tracking Cyborgization
-
-In addition to its role as a platform for exploring biomedical engineered technologies, this project introduces Cytheseus. Cytheseus serves as a metric for tracking the extent of human augmentation, inspired by the Ship of Theseus paradox. Users can track their "Cytheseus score," indicating the percentage of replaced or augmented body parts. This feature enhances the project's utility by offering users a personalized way to document their journey in human augmentation and cyborgization.
+Moreover, Cytheseus facilitates collaboration and knowledge-sharing among users and companies. Users can create, upload, and share their cyberware parts, contributing to a rich ecosystem of revolutionary cyborg cyberware cybernetic part record keeping. With robust APIs, users can remotely target their implants and configure them online, directly updating the firmware on their implants within their bodies. This capability represents a significant advancement in remote implant management and personalization.
 
 ## Current alternatives
 There is no clear alternative in the market that exists. Hence why Cytheseus was defined and created.
