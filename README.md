@@ -1,6 +1,6 @@
 # Cytheseus: A revolutionary Cyborg Health Record system
 
-* Author: Sumeet Singh
+* Author: Sumeet Chand
 * Created: 6th April 2023
 * Availability: cytheseus.com
 * License: Propriety due to strict Medical records safety needs
